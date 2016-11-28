@@ -4,7 +4,7 @@ title = "Maven简单使用"
 description = ""
 keywords = [
 ]
-categories = [
+categories = ["java"
 ]
 
 +++
@@ -21,7 +21,7 @@ mvn archetype:generate
 mnv compile
 ``` 
 
-3. Maven运行Main方法
+3. Maven运行Main
 
 ```
 mvn exec:java -Dexec.mainClass="org.evil.test.App"
