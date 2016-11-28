@@ -29,7 +29,7 @@ hasCJKLanguage = true
     truncate = true
 
     # Used when a given page doesn't set its own.
-    defaultDescription = "A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies."
+    defaultDescription = ""
     defaultKeywords = "java"
 
     # Hide estimated reading time for posts.
@@ -50,7 +50,7 @@ hasCJKLanguage = true
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = ""
+    tagline = "A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies."
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
