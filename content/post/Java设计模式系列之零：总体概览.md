@@ -1,6 +1,6 @@
 +++
 date = "2016-12-01T22:39:00+08:00"
-title = "Java设计模式系列之一：总体概览"
+title = "Java设计模式系列之零：总体概览"
 description = ""
 keywords = ["java","design-patterns"
 ]
