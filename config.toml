@@ -43,7 +43,7 @@ hasCJKLanguage = true
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
-    highlight = "sunburst"
+    highlight = "solarized_light"
 
     # Optional additional custom CSS file URL, will override other styles.
     #customCSS = ""
@@ -57,7 +57,7 @@ hasCJKLanguage = true
     home = "Home"
 
     # Metadata used to drive integrations.
-    #googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-88638293-1"
     gravatarHash = "a316be2c546cb4f3ee5083ffe1bb71c0"
 
     # Sidebar social links, these must be full URLs.
