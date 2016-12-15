@@ -1,7 +1,7 @@
 baseurl = "https://hurleychin.github.io/"
 title = "Today I Learned"
 languageCode = "en-us"
-disqusShortname = "hurleychin" # Optional, enable Disqus integration
+#disqusShortname = "hurleychin" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 10
