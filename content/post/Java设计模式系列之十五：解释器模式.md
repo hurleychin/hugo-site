@@ -5,7 +5,7 @@ keywords = [
 ]
 categories = ["java","design-patterns","behavioral","gang of four"
 ]
-title = "Java设计模式系列之十四：解释器模式"
+title = "Java设计模式系列之十五：解释器模式"
 
 +++
 
