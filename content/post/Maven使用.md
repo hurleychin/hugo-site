@@ -4,7 +4,7 @@ title = "Maven简单使用"
 description = ""
 keywords = [
 ]
-categories = ["java"
+categories = ["java","maven"
 ]
 
 +++
